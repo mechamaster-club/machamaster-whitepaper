@@ -1,3 +1,3 @@
-# What it Mecha Master
+# 什么是机战菁英
 
-Mecha Master is the first mecha story background GameFi project based on the underlying architecture of the Metaverse. The background of the game story was born from many classic sci-fi movies. In addition to paying homage to many classic movies, it also evokes a reflection on the advancement of modern technology and the surrounding environmental protection.
+《机战菁英》是首款基于元宇宙底层架构搭建的机甲故事背景链游项目。游戏故事背景催生于许多经典科幻电影，除了向许多经典电影致敬之外，同时也唤起人类对于现代科技日新跃进和周遭环境保护的一个反思。
