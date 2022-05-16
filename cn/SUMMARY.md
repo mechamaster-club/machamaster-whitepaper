@@ -1,4 +1,4 @@
-# Table of contents
+# 目錄
 
 ## 游戏介绍
 
