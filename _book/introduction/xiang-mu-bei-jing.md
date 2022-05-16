@@ -1,0 +1,3 @@
+# Project Background
+
+Mecha Master is the first mecha story background chain game project based on the underlying architecture of the Metaverse. It has received investment and attention from six major international institutions. The game is built on the BNB public chain, and is a blockchain game that is fully decentralized and innovative in the Mecha Metaverse. Mecha warriors can use the exclusive NFT to experience the original Stake and Play mode in the war elite, and the economic model that perfectly combines the three elements of Gamefi, Defi and NFT, endows the ecology with a sustainable cycle.
